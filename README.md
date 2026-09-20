@@ -87,7 +87,7 @@ outlier orders in a tiny state can't skew it), and the seller-vs-carrier
 breakdown chart, which is honestly the one that makes the whole point at a
 glance.
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.PNG)
 
 ## Repo structure
 
